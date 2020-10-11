@@ -4,7 +4,7 @@ This notebook starts by using [PRAW](https://praw.readthedocs.io/en/latest/#), "
 
 PRAW can be used to create chat bots on reddit or just to scrap data from it to gain insights into online social media. I will use to [Scapy](https://scapy.readthedocs.io/en/latest/introduction.html) to then perform natural language processing since this python library already have pretain models for this task.
 
-We will try to create an algorithm to detect online harassment, and in particular to flag if a comment has a high likihood of contain hate speech.
+We will try to create an algorithm to detect online harassment, and in particular to flag if a comment has a high likihood of containing hate speech.
 
 # Import Libraries
 
